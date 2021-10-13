@@ -34,10 +34,16 @@ url = "career"
 weight = 4
 
 [[menu.main]]
+name = "Porfolio"
+pre = ""
+url = "https://dewatt.agency/[portfolio.pdf"
+weight = 5
+
+[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 5
+weight = 6
 
 
 #################### default parameters ################################
@@ -45,8 +51,8 @@ weight = 5
 logo = "images/logo.png"
 logo_width = "120px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Building the best experiences"
+author = "DeWatt"
 # contact info
 contact_info = "Washington 795<br>Las Mercedes, <br>Asunción | Paraguay"
 # Preloader
