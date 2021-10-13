@@ -1,0 +1,81 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "DeWatt Agency"
+  content : "We answer the question that we always ask ourselves when looking for the perfect idea <br>to captivate our audience,<br>
+that star project that will make us reach the top,<br>
+the one that is so elusive and so dreamed of, we answer “the what” question.<br>
+We are a group of professionals who will help you to base your ideas and<br>
+help you find the right path."
+  image : "images/hero-image/hero-slider-01.jpg"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#services"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "Propel Advancement"
+  section : "MISSION"
+  content : "A roadmap is always effective to have great projects, We are a company that achieves its objectives when the client achieves theirs, and this is only possible when the team is committed. Efficiency is guaranteed"
+  video_thumb: "images/video-thumb.jpg"
+  video_id: "ResipmZmpDU"
+
+
+#################### Vission #####################
+vision:
+  enable : true
+  section : "VISION"
+  vision_item:
+  - title : "Efficiency First"
+    image : "images/vision/vision-01.jpg"
+    content : "If the projects are well structured and clearly described on a platform, things will work out well. <br>Nanotob | Founder"
+    
+  - title : "Technology as an ally"
+    image : "images/vision/vision-02.jpg"
+    content : "A company will always provide that extra mile when its team has the necessary resources to achieve it. <br>Ice Sculptor | Founder"
+    
+  - title : "A firm purpose"
+    image : "images/vision/vision-03.jpg"
+    content : "Commitment is embedded in our duty, the challenge of winning is our greatest motivation. <br>Xehcnom | Founder"
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Services"
+  title : "Some Of Our Best Services"
+  content : "Innovation is part of our DNA, we satisfy all areas of advertising and marketing, and we invest in innovative projects within the blockchain, after all, we must lead by example, right? We always seek to close the best deal to our clients. We seek to win."
+  product_item:
+  - title : "Development"
+    image : "images/product/product-02.jpg"
+    content : "Do you have any development ideas in mind? We have you covered, from landing page developments for specific campaigns to e-commerce sites connected to ERP systems, we have it standardized, with proven security levels and of course, with beautiful designs made by our team."
+    project_url : "#"
+    
+  - title : "Marketing campaings"
+    image : "images/product/product-02.jpg"
+    content : "Thinking of launching a new product model? Are you planning what your new showroom will look like? Or maybe you have a regional campaign that you need to adapt to the local market with audio visual support? We are here for you. We have vast experience in all kind of campaigns so that you can rest easy."
+    project_url : "#"
+    
+  - title : "Consultancy"
+    image : "images/product/product-03.jpg"
+    content : "Not knowing very well which paths to take? Well, our team of consultants has the solution for you. We analyze the potential ideas to take forward and the budgets available to establish a financially viable roadmap for you to achieve the success you are looking for."
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT US"
+  title : "reach us"
+  image : "images/map-bg.jpg"
+  content : "We are facing a new digital dawn, the world changed right front our eyes and innovation is already part of our day to day. Don't let opportunities get out of hand by not being attentive. We are here to support you and help you achieve your goals."
+
+  
+################### call to action #################
+call_to_action:
+  enable : true
+  title : "Join the DeWatt family. <br>Click below to view the jobs opportunities we have for you."
+  button_label : "Apply Now"
+  button_link : "career"
