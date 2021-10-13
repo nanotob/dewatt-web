@@ -36,7 +36,7 @@ weight = 4
 [[menu.main]]
 name = "Porfolio"
 pre = ""
-url = "https://dewatt.agency/[portfolio.pdf"
+url = "https://dewatt.agency/portfolio.pdf"
 weight = 5
 
 [[menu.main]]
