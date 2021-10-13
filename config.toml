@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "OMEGA"
+baseURL = "https://dewatt.agency"
+title = "DeWatt"
 theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -22,13 +22,13 @@ url = "mission"
 weight = 2
 
 [[menu.main]]
-name = "Products"
+name = "Services"
 pre = "#"
 url = "products"
 weight = 3
 
 [[menu.main]]
-name = "Career"
+name = "Oportunities"
 pre = ""
 url = "career"
 weight = 4
@@ -48,7 +48,7 @@ logo_width = "120px"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "Washington 795<br>Las Mercedes, <br>Asunción | Paraguay"
 # Preloader
 preloader = true
 # google map
@@ -72,10 +72,6 @@ title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "#"
 
-[[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
 
 [[params.social]]
 title = "instagram"
